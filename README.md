@@ -1,2 +1,2 @@
 # Neural-Network
-Implement simple Neural Network in Matlab
+Implement simple Neural Networks by Matlab
