@@ -1,2 +1,2 @@
 # Neural-Network
-Neural Network Repository
+Implement simple Neural Network in Matlab
